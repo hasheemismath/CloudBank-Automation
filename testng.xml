@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<!--<suite name="RPC">-->
+<!--    <test verbose="2" preserve-order="true" name="D:/Cloudbnq/07.04.19/test-automation-v2/CloudBank">-->
+<!--        <classes>-->
+<!--            <class name="RPC.CorporateApplicationSubmitWithOneOwnerAndAllCollateralTypeYes">-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--</suite>-->
+
+<suite name="Jump Start Finance">
+    <test verbose="2" preserve-order="true" name="D:/Cloudbnq/07.04.19/test-automation-v2/CloudBank">
+        <classes>
+            <class name="jumpStartUAT.AutoDecisionAutoDeclinedScenario">
+            </class>
+<!--            <class name="jumpStartUAT.AutoDecisionDeclinedScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStartUAT.AutoDecisionPreApprovedScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStartUAT.ReopenReSubmitAndApproveDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStartUAT.SearchDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStartUAT.SearchDeclinedDLF">-->
+<!--            </class>-->
+<!--            <class name="jumpStartUAT.SearchNewDLF">-->
+<!--            </class>-->
+<!--            <class name="jumpStartUAT.SubmitAndApproveDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStartUAT.SubmitAndDeclineDLF">-->
+<!--            </class>-->
+<!--            <class name="jumpStartUAT.SuccessfulSubmitDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStartUAT.UnlockDLFAndResubmitScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.AfterCancellingDeclineAndReopenDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.AutoDecisionAutoDeclinedScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.AutoDecisionDeclinedScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.AutoDecisionPreApprovedScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.CancelApprovingAndDeclineDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.CancelReopenAndApproveDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.ChangePasswordScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.DeleteDrafts">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.FailAndExitScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.FailAndResubmitScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.FailAndTryAgainScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.ForgotPasswordScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.NegativeScenario01">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.ReopenReSubmitAndApproveDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.ReopenReSubmitAndDeclineDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.Scenario07">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.Scenario08">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.SearchDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.SearchDeclinedDLF">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.SearchNewDLF">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.SearchOnListViewScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.SubmitAndApproveDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.SubmitAndDeclineDLF">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.SuccessfulSubmitDLFScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.UnlockDLFAndResubmitScenario">-->
+<!--            </class>-->
+<!--            <class name="jumpStart.UserRoleBasedAccess">-->
+<!--            </class>-->
+<!--            <class name="mainProduct.Scenario01AutoLoan">-->
+<!--            </class>-->
+        </classes>
+    </test>
+</suite>
